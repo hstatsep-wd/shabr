@@ -1,4 +1,4 @@
-# SHABR: Bootstrap Practice
+# SHABR
 ---
 _The purpose of this repository is to help you practice using HTML, CSS, and Bootstrap._
 
