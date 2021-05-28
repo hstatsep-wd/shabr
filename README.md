@@ -17,7 +17,8 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 
 ## Content
 * All of the raw content can be found in `raw.txt`. As the designer, feel free to use your judgment about the order and other minor changes, but do not change any of the content.
-* All of the pictures can be found in the `img` sub-directory. As a reminder, reference them using `img/balloon-#.jpg`.
+* All of the pictures can be found in the `img` sub-directory. 
+  * As a reminder, reference them using `img/balloon-#.jpg`.
   * Using the balloon clipart is completely **optional**.
 * Put your HTML content in `index.html`
 * Put your CSS style in `style.css`
