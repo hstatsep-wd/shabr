@@ -25,18 +25,7 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 * You probably won't need to use `script.js`, but it's there if you do need it.
 
 ## Plan/sketch
-* The best results are always backed by thorough planning. Before jumping into the Directions below, it is recommended that you plan out a reasonable layout for the content. Here are a bunch of free tools for sketching a design:
-  * [Google Drawings](https://drawings.google.com) (easiest to use!)
-  * Other browser-based tools
-    * [Wireframe.cc](https://wireframe.cc/)
-    * [Figma](https://www.figma.com/wireframe-tool/)
-    * [Mockflow](https://www.mockflow.com/)
-  * Downloadable programs
-    * [Adobe XD](https://www.adobe.com/products/xd.html)
-    * [Miro](https://miro.com/apps/)
-    * [JustinMind](https://www.justinmind.com/free-wireframing-tool)
-  * Paper-and-pencil
-    * [SneakPeekIt](https://sneakpeekit.com/)
+* The best results are always backed by thorough planning. Before jumping into the Directions below, it is recommended that you plan out a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
 
 ## Requirements
 **Your task is to use all of the provided content, along with your knowledge of HTML, CSS, and Bootstrap to create a fake "SHABR" website.**
