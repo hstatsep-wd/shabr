@@ -24,17 +24,19 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 * Put your CSS style in `style.css`
 * You probably won't need to use `script.js`, but it's there if you do need it.
 
-## Plan/sketch
-* The best results are always backed by thorough planning. Before jumping into the Directions below, it is recommended that you plan out a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
+## Wireframe
+* The best results are always backed by thorough planning. Before jumping into the Directions below, plan out a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
 
 ## Requirements
 **Your task is to use all of the provided content, along with your knowledge of HTML, CSS, and Bootstrap to create a fake "SHABR" website.**
-* [20%] Use all content in raw.txt
+* [20%] Wireframe: upload the image to this repo and name it `wireframe.png` or `wireframe.jpg`
 * [20%] HTML: Use your own tags (`h#`, `p`, `ul`, etc)
 * [20%] CSS: Use your own color palette and font(s)
 * [20%] Bootstrap grid row(s)/column(s): responsive layout between phones/computers.
 * [20%] At least two Boostrap components meaningfully: accordion, carousel, navbar, etc.
 
+Extra Credit: use [Bootstrap icons](https://icons.getbootstrap.com/index.html#install)
+* Tip: use the CDN
 
 ## Directions
 * Clone this repository into your IDE.
