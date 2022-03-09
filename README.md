@@ -9,7 +9,7 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 
 ## Examples
 * A full example can be found in the `example` sub-directory of this repo.
-* You can either preview it locally, or [here](http://bmuellerhstat.github.io/shabr/example/).
+* You can either preview it locally, or [here](http://hstatsep-wd.github.io/shabr/example/).
 * Your page should be **unique**, so you should **NOT** be copying/paste any of that code.
 * As you can see below, there are _many_ ways to use the _same_ content to make a _unique_ website:
 
