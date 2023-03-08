@@ -24,12 +24,16 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 * Put your CSS style in `style.css`
 * You probably won't need to use `script.js`, but it's there if you do need it.
 
-## Wireframe
-* The best results are always backed by thorough planning. Before jumping into the Directions below, plan out a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
+## Plan & Wireframe
+* The best results are always backed by thorough planning. Before jumping into the Directions below, plan out:
+  * A reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
+  * Everything else using `plan.md`. More details there.
 
 ## Requirements
 **Your task is to use all of the provided content, along with your knowledge of HTML, CSS, and Bootstrap to create a fake "SHABR" website.**
-* [20%] Wireframe: upload the image to this repo and name it `wireframe.png` or `wireframe.jpg`
+* [20%] Preparation
+  * [10%] `plan.md`: tasks, timeline, details, etc.
+  * [10%] Wireframe: upload the image to this repo and name it `wireframe.png` or `wireframe.jpg`
 * [20%] HTML: Use your own tags (`h#`, `p`, `ul`, etc)
 * [20%] CSS: Use your own color palette and font(s)
 * [20%] Bootstrap grid row(s)/column(s): responsive layout between phones/computers.
@@ -40,6 +44,5 @@ Extra Credit: use [Bootstrap icons](https://icons.getbootstrap.com/index.html#in
 
 ## Directions
 * Clone this repository into your IDE.
-* You must ONLY work on your code in your IDE.
 * It is recommended that you `add`/`commit`/`push` throughout your progress.
 * When you are completely finished, `add`/`commit`/`push` your work to Github.
