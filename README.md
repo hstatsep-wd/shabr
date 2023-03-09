@@ -26,7 +26,7 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 
 ## Plan & Wireframe
 * The best results are always backed by thorough planning. Before jumping into the Directions below, plan out:
-  * A reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
+  * Wirefreame: a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
   * Everything else using `plan.md`. More details there.
 
 ## Requirements
