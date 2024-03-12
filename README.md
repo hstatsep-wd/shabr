@@ -24,16 +24,17 @@ _The purpose of this repository is to help you practice using HTML, CSS, and Boo
 * Put your CSS style in `style.css`
 * You probably won't need to use `script.js`, but it's there if you do need it.
 
-## Plan & Wireframe
-* The best results are always backed by thorough planning. Before jumping into the Directions below, plan out:
-  * Wirefreame: a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
-  * Everything else using `plan.md`. More details there.
+## Prep: Plan & Wireframe
+* The best results are always backed by thorough planning. Before jumping into the Directions below, use the `prep` folder to plan out:
+  * Wireframe: a reasonable layout for the content. [Here are a bunch of free tools for sketching a design](https://hstatsep.github.io/students/index.html#wireframing).
+    * Make sure you upload your `wireframe.png` or `wireframe.jpg` to the `prep` folder.
+  * Everything else you can plan out using `plan.md` in the `prep` folder. More details there.
 
 ## Requirements
 **Your task is to use all of the provided content, along with your knowledge of HTML, CSS, and Bootstrap to create a fake "SHABR" website.**
 * [20%] Preparation
-  * [10%] `plan.md`: tasks, timeline, details, etc.
-  * [10%] Wireframe: upload the image to this repo and name it `wireframe.png` or `wireframe.jpg`
+  * [10%] `plan.md`: tasks, timeline, details, who is reponsible for what, etc.
+  * [10%] Wireframe: upload the image to the `prep` folder and name it `wireframe.png` or `wireframe.jpg`
 * [20%] HTML: Use your own tags (`h#`, `p`, `ul`, etc)
 * [20%] CSS: Use your own color palette and font(s)
 * [20%] Bootstrap grid row(s)/column(s): responsive layout between phones/computers.
@@ -43,6 +44,7 @@ Extra Credit: use [Bootstrap icons](https://icons.getbootstrap.com/index.html#in
 * Tip: use the CDN
 
 ## Directions
-* Clone this repository into your IDE.
-* It is recommended that you `add`/`commit`/`push` throughout your progress.
+* Clone this repository into your IDE: `/wd/projects/`.
+* Start with your `plan.md` and making your `wireframe`
+* You should `add`/`commit`/`push` throughout your progress.
 * When you are completely finished, `add`/`commit`/`push` your work to Github.
